@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ![Author](https://img.shields.io/badge/Author-hexLi-666699) ![last-commit](https://img.shields.io/github/last-commit/2lbj/2lbj) 
 
-[emoji] 简介
-[emoji] 爱好/擅长
-[emoji] 研究
+
+ 👤 一个过渡美白的...  
+ 🔬 Shell Java  
+ ⛵️ 
+ 🤌🏼  
+ 📫 <nerv.2lbj@gmail.com>
