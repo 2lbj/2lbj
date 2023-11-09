@@ -1,4 +1,4 @@
-### Hi there 👋
+### hexLi / 李婶儿
 
 <!--
 **2lbj/2lbj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Author](https://img.shields.io/badge/Author-hexLi-666699) ![last-commit](https://img.shields.io/github/last-commit/2lbj/2lbj) 
+
+[emoji] 简介
+[emoji] 爱好/擅长
+[emoji] 研究
