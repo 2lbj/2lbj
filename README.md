@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![2lbj's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=2lbj&hide=contribs&show_icons=true&theme=gotham&bg_color=00000000)](https://github.com/2lbj/#gh-dark-mode-only)
+[![2lbj's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=2lbj&hide=contribs&show_icons=true&theme=shadow_blue&bg_color=00000000)](https://github.com/2lbj/#gh-light-mode-only)
 
 ![Author](https://img.shields.io/badge/Author-hexLi-666699) ![last-commit](https://img.shields.io/github/last-commit/2lbj/2lbj) 
 
