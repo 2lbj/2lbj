@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Author](https://img.shields.io/badge/Author-hexLi-666699) ![last-commit](https://img.shields.io/github/last-commit/2lbj/2lbj) 
 
 
- > 👤 一个过渡美白的深色跨性别中年近视女性同志... 
+ > 👤 一个过渡美白的深色跨性别中年近视女同志  
  > 是的buff要拉满  
  >> 🔬 Shell Java  
  >> ⛵️ windy 
