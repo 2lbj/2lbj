@@ -25,3 +25,4 @@ Here are some ideas to get you started:
  >> ⛵️ windy 
  >> 🤌🏼  
  >> 📫 <nerv.2lbj@gmail.com>
+ >> 🤖 [与 Sisyphus AI 的协作提交记录](https://github.com/search?q=repo%3A2lbj%2F2lbj.github.io+%22Co-authored-by%3A+Sisyphus%22&type=Commits)
